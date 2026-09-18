@@ -1,0 +1,10 @@
+public/
+resources/
+.hugo_cache/
+node_modules/
+.env
+.env.local
+.DS_Store
+Thumbs.db
+*.log
+static/uploads/
