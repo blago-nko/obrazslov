@@ -8,3 +8,8 @@ node_modules/
 Thumbs.db
 *.log
 static/uploads/
+
+# Hugo build directories
+public/
+public-check/
+.hugo_build.lock
