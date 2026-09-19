@@ -70,6 +70,4 @@ blogger_url: "https://www.obrazslov.ru/2025/07/obzor-sajta-interesnye-mesta.html
 
 <div class="text-center">
 
-  
-
 </div>
