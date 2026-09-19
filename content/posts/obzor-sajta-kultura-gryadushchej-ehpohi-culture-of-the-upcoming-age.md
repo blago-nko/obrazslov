@@ -10,10 +10,8 @@ author: "Александр Бобров"
 blogger_url: "https://www.obrazslov.ru/2024/07/obzor-sajta-kultura-gryadushchej-ehpohi-culture-of-the-upcoming-age.html"
 ---
 
-<figure>
-{{< imgfigure src="/images/Эмблема-Сайта-Культура.jpg" alt="КУЛЬТУРА ГРЯДУЩЕЙ ЭПОХИ (Culture of the Upcoming Аge)" title="КУЛЬТУРА ГРЯДУЩЕЙ ЭПОХИ (Culture of the Upcoming Аge)" caption="КУЛЬТУРА ГРЯДУЩЕЙ ЭПОХИ (Culture of the Upcoming Аge)" >}}
-<figcaption>КУЛЬТУРА ГРЯДУЩЕЙ ЭПОХИ (Culture of the Upcoming Аge)</figcaption>
-</figure>
+{{< imgfigure src="images/Эмблема-Сайта-Культура.jpg" alt="КУЛЬТУРА ГРЯДУЩЕЙ ЭПОХИ (Culture of the Upcoming Аge)" title="КУЛЬТУРА ГРЯДУЩЕЙ ЭПОХИ (Culture of the Upcoming Аge)" caption="КУЛЬТУРА ГРЯДУЩЕЙ ЭПОХИ (Culture of the Upcoming Аge)"  >}}
+
 
 Сайт [КУЛЬТУРА ГРЯДУЩЕЙ ЭПОХИ](https://culture.obrazslov.ru/) (Culture of the Upcoming Аge) посвящен формированию Культуры грядущей Эпохи, соответствующей требованиям Нового Века Водолея.
 
