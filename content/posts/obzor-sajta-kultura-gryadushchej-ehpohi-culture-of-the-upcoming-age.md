@@ -11,7 +11,7 @@ blogger_url: "https://www.obrazslov.ru/2024/07/obzor-sajta-kultura-gryadushchej-
 ---
 
 <figure>
-<img src="/images/Эмблема-Сайта-Культура.jpg" alt="КУЛЬТУРА ГРЯДУЩЕЙ ЭПОХИ (Culture of the Upcoming Аge)" title="КУЛЬТУРА ГРЯДУЩЕЙ ЭПОХИ (Culture of the Upcoming Аge)" loading="lazy">
+{{< imgfigure src="/images/Эмблема-Сайта-Культура.jpg" alt="КУЛЬТУРА ГРЯДУЩЕЙ ЭПОХИ (Culture of the Upcoming Аge)" title="КУЛЬТУРА ГРЯДУЩЕЙ ЭПОХИ (Culture of the Upcoming Аge)" caption="КУЛЬТУРА ГРЯДУЩЕЙ ЭПОХИ (Culture of the Upcoming Аge)" >}}
 <figcaption>КУЛЬТУРА ГРЯДУЩЕЙ ЭПОХИ (Culture of the Upcoming Аge)</figcaption>
 </figure>
 

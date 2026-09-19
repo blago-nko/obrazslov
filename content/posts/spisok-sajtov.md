@@ -16,7 +16,7 @@ blogger_url: "https://www.obrazslov.ru/2019/06/spisok-sajtov.html"
 <div class="text-center">
 
 <figure>
-<img src="/images/Общественное+благополучие+рис.jpg" alt="Список сайтов домена" title="Список сайтов домена" loading="lazy">
+{{< imgfigure src="/images/Общественное+благополучие+рис.jpg" alt="Список сайтов домена" title="Список сайтов домена" caption="Список сайтов домена" >}}
 <figcaption>Список сайтов домена</figcaption>
 </figure>
 

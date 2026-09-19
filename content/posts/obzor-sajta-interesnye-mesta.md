@@ -13,7 +13,7 @@ blogger_url: "https://www.obrazslov.ru/2025/07/obzor-sajta-interesnye-mesta.html
 <div class="text-center">
 
 <figure>
-<img src="/images/IMG_20240627_124227.jpg" alt="Интересные места" title="Интересные места" loading="lazy">
+{{< imgfigure src="/images/IMG_20240627_124227.jpg" alt="Интересные места" title="Интересные места" caption="Интересные места" >}}
 <figcaption>Интересные места</figcaption>
 </figure>
 

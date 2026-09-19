@@ -11,7 +11,7 @@ blogger_url: "https://www.obrazslov.ru/2024/08/obzor-sajta-bogi-i-geroi-grecii.h
 ---
 
 <figure>
-<img src="/images/Пантеон.jpg" alt="Пантеон" title="Пантеон" loading="lazy">
+{{< imgfigure src="/images/Пантеон.jpg" alt="Пантеон" title="Пантеон" caption="Пантеон" >}}
 <figcaption>Пантеон</figcaption>
 </figure>
 
