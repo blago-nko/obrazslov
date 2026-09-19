@@ -1,17 +1,37 @@
 baseURL = "https://obrazslov.ru/"
-languageCode = "ru-ru"
+locale = "ru"
 title = "Образ слов"
-theme = "shared-assets"
 
 [permalinks]
   posts = "/:year/:month/:filename.html"
 
 [params]
-  description = "База знаний экосистемы blago-nko"
+  description = "Мультипортал объединяет несколько сайтов и сообществ, расположенных на этом домене"
   author = "blago-nko"
+  internalDomains = ["blagorussia.ru", "obrazslov.ru", "partnerstvo.blagorussia.ru", "novosti.blagorussia.ru", "ot-gorozan.blagorussia.ru", "obavlenia.blagorussia.ru", "interesnye-mesta.obrazslov.ru", "moisites.blagorussia.ru", "joga.blagorussia.ru", "ideologia.obrazslov.ru", "nasa-istoria.blagorussia.ru", "grekpanteon.obrazslov.ru", "gallery.obrazslov.ru", "can.blagorussia.ru", "pokrov.obrazslov.ru", "amazing-temples.obrazslov.ru", "bookworm.obrazslov.ru"]
 
 [markup.goldmark.renderer]
   unsafe = true
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS"]
+
+[module]
+  [[module.mounts]]
+    source = "content"
+    target = "content"
+  [[module.mounts]]
+    source = "static"
+    target = "static"
+  [[module.mounts]]
+    source = "data"
+    target = "data"
+  [[module.mounts]]
+    source = "themes/shared-assets/hugo/layouts"
+    target = "layouts"
+  [[module.mounts]]
+    source = "themes/shared-assets/web/css"
+    target = "static/css"
+  [[module.mounts]]
+    source = "themes/shared-assets/web/js"
+    target = "static/js"
