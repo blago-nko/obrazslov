@@ -13,6 +13,13 @@
 - `static/verification/` — файлы верификации поисковых систем
 - `themes/shared-assets/` — общая тема из blago-nko/shared-assets
 
+## Проверка в облаке (staging)
+
+- Адрес: https://blago-nko.github.io/obrazslov/
+- Сборка: GitHub Actions, workflow `hugo.yml` (environment=staging, baseURL с префиксом репозитория)
+- Защита от индексации: `meta robots noindex, nofollow` (снимается при переходе на боевой домен)
+- Статус деплоя: вкладка Actions репозитория
+
 ## Локальная разработка
 
     hugo server -D
