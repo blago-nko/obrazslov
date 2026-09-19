@@ -12,8 +12,7 @@ blogger_url: "https://www.obrazslov.ru/2025/07/obzor-sajta-interesnye-mesta.html
 
 <div class="text-center">
 
-{{< imgfigure src="images/IMG_20240627_124227.jpg" alt="Интересные места" title="Интересные места" caption="Интересные места"  >}}
-
+{{< imgfigure src="images/IMG_20240627_124227.jpg" alt="Интересные места" title="Интересные места" caption="Интересные места" >}}
 
 </div>
 
@@ -70,5 +69,7 @@ blogger_url: "https://www.obrazslov.ru/2025/07/obzor-sajta-interesnye-mesta.html
 </div>
 
 <div class="text-center">
+
+  
 
 </div>
