@@ -6,6 +6,7 @@ title = "Образ слов"
   posts = "/:year/:month/:filename.html"
 
 [params]
+logo = "logo.png"
   description = "Мультипортал объединяет несколько сайтов и сообществ, расположенных на этом домене"
   author = "blago-nko"
   internalDomains = ["blagorussia.ru", "obrazslov.ru", "partnerstvo.blagorussia.ru", "novosti.blagorussia.ru", "ot-gorozan.blagorussia.ru", "obavlenia.blagorussia.ru", "interesnye-mesta.obrazslov.ru", "moisites.blagorussia.ru", "joga.blagorussia.ru", "ideologia.obrazslov.ru", "nasa-istoria.blagorussia.ru", "grekpanteon.obrazslov.ru", "gallery.obrazslov.ru", "can.blagorussia.ru", "pokrov.obrazslov.ru", "amazing-temples.obrazslov.ru", "bookworm.obrazslov.ru"]
