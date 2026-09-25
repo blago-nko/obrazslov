@@ -12,7 +12,7 @@ blogger_url: "https://www.obrazslov.ru/2025/07/obzor-sajta-interesnye-mesta.html
 
 <div class="text-center">
 
-{{< imgfigure src="images/IMG_20240627_124227.jpg" alt="Интересные места" title="Интересные места" caption="Интересные места" >}}
+{{< img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnbjjpe-dUufgb8FsNmO4AkrLvDClyowGdZmPE0P7FFZ0vvnpsSIsp9smR88WC3XDvrmUsoZW30DKyPoap7bjIO9JN-kDpeg1uf-jVFkOR-ltTrRnYGDkcD4lWsHlwb1mxN81VcuYEpcsNqgq0GVGH_BNUU21GquvFY1Nypaf9ua-m-msRY2aoN9Mc2PA/w640-h480/IMG_20240627_124227.jpg" alt="Интересные места" title="Интересные места" caption="Интересные места" >}}
 
 </div>
 

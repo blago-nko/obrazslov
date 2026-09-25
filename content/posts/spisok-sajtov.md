@@ -15,7 +15,7 @@ blogger_url: "https://www.obrazslov.ru/2019/06/spisok-sajtov.html"
 
 <div class="text-center">
 
-{{< imgfigure src="images/Общественное+благополучие+рис.jpg" alt="Список сайтов домена" title="Список сайтов домена" caption="Список сайтов домена" >}}
+{{< img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4RAmMSnLjaD_wz0YAUgjLhIoE8BF0csrXynGjjTSBorYlX0C-xPCveaHm9C47oMC3XZ4gv3wm4P8mHsWv3zraJYLcCihKwlEBqc7N1vZk6RD74bnyNnX5TXIewSJsK3q0LZw5CXeoy_U/s640/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B5%25D1%2581%25D1%2582%25D0%25B2%25D0%25B5%25D0%25BD%25D0%25BD%25D0%25BE%25D0%25B5+%25D0%25B1%25D0%25BB%25D0%25B0%25D0%25B3%25D0%25BE%25D0%25BF%25D0%25BE%25D0%25BB%25D1%2583%25D1%2587%25D0%25B8%25D0%25B5+%25D1%2580%25D0%25B8%25D1%2581.jpg" alt="Список сайтов домена" title="Список сайтов домена" caption="Список сайтов домена" >}}
 
 </div>
 
