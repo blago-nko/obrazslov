@@ -2,7 +2,7 @@
 title: "Обзор сайта Интересные места"
 date: "2025-07-01"
 draft: "False"
-description: "Обзор сайта Интересные места"
+description: "<div class=\"text-center\"> </div> Сайт «Интересные места»https://interesnye-mesta.obrazslov.ru/ представляет собой информационный ресурс, посвященный достопри..."
 tags:
   - "Обзоры"
   - "Сайты"
