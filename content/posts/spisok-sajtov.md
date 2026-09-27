@@ -2,9 +2,8 @@
 title: Список сайтов
 date: '2019-06-28'
 draft: 'False'
-description: <div class="text-center"> </div> <div class="text-center"> </div> Образ
-  будущего - новая идеологияhttps://ideologia.obrazslov.ru/ - открытый проект для
-  Автор...
+description: Образ будущего - новая идеология https://ideologia.obrazslov.ru/ - открытый
+  проект для Автор...
 tags:
 - Сайты
 author: Александр Бобров
