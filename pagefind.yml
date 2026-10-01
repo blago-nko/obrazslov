@@ -1,0 +1,6 @@
+# Pagefind configuration for Russian language
+glob: "**/[!_]*.html"
+root_selector: "main"
+index_page_content: true
+index_headings: true
+language: "ru"
