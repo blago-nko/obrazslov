@@ -1,6 +1,12 @@
 # Pagefind configuration for Russian language
 glob: "**/[!_]*.html"
-root_selector: "main"
+# Убрали root_selector, чтобы Pagefind сканировал всю страницу и точно находил <h1> или <title>
 index_page_content: true
 index_headings: true
 language: "ru"
+
+# Явно указываем, что считать заголовком, если <h1> не найден
+synthetic_title_selectors:
+  - "h1"
+  - "h2.post-card-title"
+  - "title"
