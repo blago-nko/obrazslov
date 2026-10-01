@@ -1,27 +1,4 @@
-# Pagefind configuration for Russian language (Hugo with pretty URLs)
-# Hugo создает папки с index.html внутри, поэтому ищем именно их
-glob: "**/index.html"
-
-# Индексируем только основной контент (исключаем header, footer, навигацию)
-root_selector: "main"
-
-index_page_content: true
-index_headings: true
+# Pagefind configuration
+# Мы используем data-pagefind-body и data-pagefind-ignore в HTML, 
+# поэтому глобальные селекторы здесь не нужны.
 language: "ru"
-
-# Исключаем служебные элементы из индексации
-exclude_selectors:
-  - "script"
-  - "style"
-  - "noscript"
-  - "nav"
-  - "footer"
-  - ".cookie-consent"
-  - ".search-overlay"
-  - ".mobile-menu"
-
-# Синтетические заголовки (если <h1> не найден)
-synthetic_title_selectors:
-  - "h1"
-  - "h2.post-card-title a"
-  - "title"
