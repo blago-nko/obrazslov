@@ -1,4 +1,6 @@
-# Pagefind configuration
-# Мы используем data-pagefind-body и data-pagefind-ignore в HTML, 
-# поэтому глобальные селекторы здесь не нужны.
+# Pagefind configuration for Hugo
 language: "ru"
+
+# КРИТИЧЕСКИ ВАЖНО: Hugo создает папки с index.html внутри для красивых URL.
+# Этот паттерн заставляет Pagefind искать только реальные файлы, игнорируя папки.
+glob: "**/index.html"
