@@ -13,3 +13,4 @@ static/uploads/
 public/
 public-check/
 .hugo_build.lock
+public_test/
