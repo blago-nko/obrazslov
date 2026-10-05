@@ -1,4 +1,4 @@
----
+﻿---
 title: Список сайтов
 date: '2019-06-28'
 draft: 'False'
@@ -20,7 +20,7 @@ excerpt_clean: '<a href="https://ideologia.obrazslov.ru/">Образ будущ�
 
 <div class="text-center">
 
-{{< img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4RAmMSnLjaD_wz0YAUgjLhIoE8BF0csrXynGjjTSBorYlX0C-xPCveaHm9C47oMC3XZ4gv3wm4P8mHsWv3zraJYLcCihKwlEBqc7N1vZk6RD74bnyNnX5TXIewSJsK3q0LZw5CXeoy_U/s640/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B5%25D1%2581%25D1%2582%25D0%25B2%25D0%25B5%25D0%25BD%25D0%25BD%25D0%25BE%25D0%25B5+%25D0%25B1%25D0%25BB%25D0%25B0%25D0%25B3%25D0%25BE%25D0%25BF%25D0%25BE%25D0%25BB%25D1%2583%25D1%2587%25D0%25B8%25D0%25B5+%25D1%2580%25D0%25B8%25D1%2581.jpg" alt="Список сайтов домена" title="Список сайтов домена" caption="Список сайтов домена" >}}
+{{< img src="/images/%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D0%B1%D0%BB%D0%B0%D0%B3%D0%BE%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D0%B5+%D1%80%D0%B8%D1%81.jpg" alt="Список сайтов домена" title="Список сайтов домена" caption="Список сайтов домена" >}}
 
 </div>
 
