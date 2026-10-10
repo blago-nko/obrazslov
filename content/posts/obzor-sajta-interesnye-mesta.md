@@ -9,7 +9,7 @@ tags:
 - Сайты
 author: Александр Бобров
 blogger_url: https://www.obrazslov.ru/2025/07/obzor-sajta-interesnye-mesta.html
-image: /images/IMG_20240627_124227.jpg
+image: /obrazslov/images/IMG_20240627_124227.jpg
 excerpt_clean: <a href="https://interesnye-mesta.obrazslov.ru/">Сайт «Интересные места»</a>
   представляет собой информационный ресурс, посвященный достопримечательностям и интересным
   локациям. Ресурс является частью системы нек...
@@ -17,7 +17,7 @@ excerpt_clean: <a href="https://interesnye-mesta.obrazslov.ru/">Сайт «Ин�
 
 <div class="text-center">
 
-{{< img src="/images/IMG_20240627_124227.jpg" alt="Интересные места" title="Интересные места" caption="Интересные места" >}}
+{{< img src="/obrazslov/images/IMG_20240627_124227.jpg" alt="Интересные места" title="Интересные места" caption="Интересные места" >}}
 
 </div>
 

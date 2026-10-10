@@ -8,7 +8,7 @@ tags:
 - Сайты
 author: Александр Бобров
 blogger_url: https://www.obrazslov.ru/2019/06/spisok-sajtov.html
-image: /images/Общественное+благополучие+рис.jpg
+image: /obrazslov/images/Общественное+благополучие+рис.jpg
 excerpt_clean: '<a href="https://ideologia.obrazslov.ru/">Образ будущего - новая идеология</a>
   - открытый проект для Авторов, созданный с целью: формирования гармоничного мировоззрения,
   объединяющей идеологии, способствующей об...'
@@ -20,7 +20,7 @@ excerpt_clean: '<a href="https://ideologia.obrazslov.ru/">Образ будущ�
 
 <div class="text-center">
 
-{{< img src="/images/%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D0%B1%D0%BB%D0%B0%D0%B3%D0%BE%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D0%B5+%D1%80%D0%B8%D1%81.jpg" alt="Список сайтов домена" title="Список сайтов домена" caption="Список сайтов домена" >}}
+{{< img src="/obrazslov/images/%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D0%B1%D0%BB%D0%B0%D0%B3%D0%BE%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D0%B5+%D1%80%D0%B8%D1%81.jpg" alt="Список сайтов домена" title="Список сайтов домена" caption="Список сайтов домена" >}}
 
 </div>
 
