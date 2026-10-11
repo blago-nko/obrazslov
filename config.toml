@@ -6,6 +6,7 @@ title = "Образ слов"
   posts = "/:year/:month/:filename.html"
 
 [params]
+favicon = "/favicon.png"
 logo = "logo.webp"
   description = "Мультипортал объединяет несколько сайтов и сообществ, расположенных на этом домене"
   author = "blago-nko"

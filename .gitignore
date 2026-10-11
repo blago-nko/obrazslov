@@ -14,3 +14,6 @@ public/
 public-check/
 .hugo_build.lock
 public_test/
+
+# Pagefind output
+pagefind/
