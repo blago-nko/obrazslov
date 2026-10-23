@@ -38,3 +38,5 @@ favicon = "favicon.png"
   [[module.mounts]]
     source = "themes/shared-assets/web/js"
     target = "static/js"
+
+# TRIGGER_REBUILD_CSS_V3
