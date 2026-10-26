@@ -1,20 +1,24 @@
+# Hugo build outputs
 public/
+public-check/
+public_test/
 resources/
 .hugo_cache/
+.hugo_build.lock
+
+# Node / Pagefind
 node_modules/
+pagefind/
+
+# Environment / secrets
 .env
 .env.local
+
+# OS / editor noise
 .DS_Store
 Thumbs.db
 *.log
-static/uploads/
 
-# Hugo build directories
-public/
-public-check/
-.hugo_build.lock
-public_test/
-
-# Pagefind output
-pagefind/
+# Scratch / temporary reports
 project_full_tree.txt
+static/uploads/

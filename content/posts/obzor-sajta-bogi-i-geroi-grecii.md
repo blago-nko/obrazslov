@@ -1,20 +1,20 @@
-﻿---
+---
 title: Обзор сайта Боги и герои Греции
 date: '2024-08-04'
-draft: 'False'
+draft: false
 description: Обзор сайта Боги и герои Греции
 tags:
 - Обзоры
 - Сайты
 author: Александр Бобров
 blogger_url: https://www.obrazslov.ru/2024/08/obzor-sajta-bogi-i-geroi-grecii.html
-image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixMv-oJbWcTXgq8M_vUWknvJvXogUnVtTxMfNegP-3xO1KrKJU2ec0thxjxBrIcNEUxyUlne-YktKKMvbQMsGLHwI73ICeLqrriBZqtRfqzxsMCAONeCi1yTkjyCdSjpHX5hyphenhyphenSPlVVPTqb2aquJLoT9K7zukB-Vjnr3H_5JncxKMzg5jKXOl9sb5L-Aw8/w640-h252-rw/%D0%9F%D0%B0%D0%BD%D1%82%D0%B5%D0%BE%D0%BD.jpg
+image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixMv-oJbWcTXgq8M_vUWknvJvXogUnVtTxMfNegP-3xO1KrKJU2ec0thxjxBrIcNEUxyUlne-YktKKMvbQMsGLHwI73ICeLqrriBZqtRfqzxsMCAONeCi1yTkjyCdSjpHX5--SPlVVPTqb2aquJLoT9K7zukB-Vjnr3H_5JncxKMzg5jKXOl9sb5L-Aw8/w640-h252-rw/%D0%9F%D0%B0%D0%BD%D1%82%D0%B5%D0%BE%D0%BD.jpg
 excerpt_clean: <a href="https://grekpanteon.obrazslov.ru">Сайт</a> представляет собой
   уникальный <a href="https://grekpanteon.obrazslov.ru/2017/08/panteon.html">пантеон</a>
   древнегреческих богов, героев, титанов и других мифологических с...
 ---
 
-{{< img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixMv-oJbWcTXgq8M_vUWknvJvXogUnVtTxMfNegP-3xO1KrKJU2ec0thxjxBrIcNEUxyUlne-YktKKMvbQMsGLHwI73ICeLqrriBZqtRfqzxsMCAONeCi1yTkjyCdSjpHX5hyphenhyphenSPlVVPTqb2aquJLoT9K7zukB-Vjnr3H_5JncxKMzg5jKXOl9sb5L-Aw8/w640-h252-rw/%D0%9F%D0%B0%D0%BD%D1%82%D0%B5%D0%BE%D0%BD.jpg" alt="Пантеон" title="Пантеон" caption="Пантеон" >}} [Сайт](https://grekpanteon.obrazslov.ru) представляет собой уникальный [пантеон](https://grekpanteon.obrazslov.ru/2017/08/panteon.html) древнегреческих богов, героев, титанов и других мифологических существ, где они представлены в виде генеалогического древа. Родители указаны с меньшими номерами колена, а дети — с большими номерами.
+{{< img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixMv-oJbWcTXgq8M_vUWknvJvXogUnVtTxMfNegP-3xO1KrKJU2ec0thxjxBrIcNEUxyUlne-YktKKMvbQMsGLHwI73ICeLqrriBZqtRfqzxsMCAONeCi1yTkjyCdSjpHX5--SPlVVPTqb2aquJLoT9K7zukB-Vjnr3H_5JncxKMzg5jKXOl9sb5L-Aw8/w640-h252-rw/%D0%9F%D0%B0%D0%BD%D1%82%D0%B5%D0%BE%D0%BD.jpg" alt="Пантеон" title="Пантеон" caption="Пантеон" >}} [Сайт](https://grekpanteon.obrazslov.ru) представляет собой уникальный [пантеон](https://grekpanteon.obrazslov.ru/2017/08/panteon.html) древнегреческих богов, героев, титанов и других мифологических существ, где они представлены в виде генеалогического древа. Родители указаны с меньшими номерами колена, а дети — с большими номерами.
 
 Генеалогическое древо древнегреческих богов, героев и титанов включает в себя множество персонажей, каждый из которых имеет свою уникальную историю и роль в мифологии. Вот некоторые из них:
 

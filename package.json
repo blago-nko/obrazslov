@@ -1,0 +1,7 @@
+{
+  "name": "obrazslov-build",
+  "private": true,
+  "devDependencies": {
+    "pagefind": "^1.1.0"
+  }
+}

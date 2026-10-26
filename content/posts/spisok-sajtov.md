@@ -1,7 +1,7 @@
-﻿---
+---
 title: Список сайтов
 date: '2019-06-28'
-draft: 'False'
+draft: false
 description: Образ будущего - новая идеология https://ideologia.obrazslov.ru/ - открытый
   проект для Автор...
 tags:

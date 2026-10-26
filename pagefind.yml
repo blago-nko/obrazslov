@@ -1,6 +1,12 @@
-# Pagefind configuration for Hugo
 language: "ru"
 
-# КРИТИЧЕСКИ ВАЖНО: Hugo создает папки с index.html внутри для красивых URL.
-# Этот паттерн заставляет Pagefind искать только реальные файлы, игнорируя папки.
-glob: "**/index.html"
+# Для obrazslov используются .html URL ради сохранения Blogger-ссылок:
+# posts = "/:year/:month/:filename.html"
+# Поэтому индексируем все HTML-файлы, а не только index.html.
+glob: "**/*.html"
+
+exclude_selectors:
+  - ".sticky-bottom-bar"
+  - ".dock-modal-overlay"
+  - ".search-overlay"
+  - "#cookie-consent-banner"

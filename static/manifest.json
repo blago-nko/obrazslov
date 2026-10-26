@@ -2,13 +2,14 @@
   "name": "Образ слов",
   "short_name": "ОбразСлов",
   "description": "База знаний экосистемы blago-nko",
-  "start_url": "/",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "/logo.webp",
+      "src": "./logo.webp",
       "sizes": "144x144",
       "type": "image/webp"
     }

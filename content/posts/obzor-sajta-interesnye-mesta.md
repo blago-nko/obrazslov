@@ -1,7 +1,7 @@
 ---
 title: Обзор сайта Интересные места
 date: '2025-07-01'
-draft: 'False'
+draft: false
 description: Сайт «Интересные места»https://interesnye-mesta.obrazslov.ru/ представляет
   собой информационный ресурс, посвященный достопри...
 tags:
@@ -69,7 +69,7 @@ excerpt_clean: <a href="https://interesnye-mesta.obrazslov.ru/">Сайт «Ин�
 
 <div class="text-center">
 
-<iframe height="480" src="https://www.google.com/maps/d/embed?mid=1FiG71CWXrNQ00ADFmuEN8j2m2RQP4MY&amp;ehbc=2E312F" width="640"></iframe>
+<iframe loading="lazy" height="480" src="https://www.google.com/maps/d/embed?mid=1FiG71CWXrNQ00ADFmuEN8j2m2RQP4MY&amp;ehbc=2E312F" width="640"></iframe>
 
 </div>
 

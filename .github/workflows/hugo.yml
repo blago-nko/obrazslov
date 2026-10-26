@@ -17,37 +17,57 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
           submodules: recursive
-      
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: '0.165.0'
           extended: true
 
-      # --- НОВЫЕ ШАГИ ДЛЯ PAGEFIND ---
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-      
+
+      - name: Cache npm
+        uses: actions/cache@v4
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-npm-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: ${{ runner.os }}-npm-
+
       - name: Install Pagefind
-        run: npm install --save-dev pagefind
+        run: |
+          if [ -f package-lock.json ]; then
+            npm ci --no-audit --no-fund
+          else
+            npm install --no-audit --no-fund
+          fi
+
+      - name: Cache Hugo
+        uses: actions/cache@v4
+        with:
+          path: ${{ runner.temp }}/hugo_cache
+          key: ${{ runner.os }}-hugo-${{ hashFiles('**/*.html', '**/*.css', '**/*.js', '**/*.md', 'config.toml') }}
+          restore-keys: ${{ runner.os }}-hugo-
 
       - name: Build Site
-        run: hugo --minify --environment staging --baseURL https://blago-nko.github.io/obrazslov/
+        run: hugo --minify --gc --environment staging --baseURL https://blago-nko.github.io/obrazslov/
 
       - name: Generate Search Index
         run: npx pagefind --site public
-      # --------------------------------
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
-      
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
@@ -59,6 +79,7 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+
     steps:
       - name: Deploy to GitHub Pages
         id: deployment

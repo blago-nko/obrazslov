@@ -1,7 +1,7 @@
-﻿---
+---
 title: Обзор сайта КУЛЬТУРА ГРЯДУЩЕЙ ЭПОХИ (Culture of the Upcoming Аge)
 date: '2024-07-28'
-draft: 'False'
+draft: false
 description: Обзор сайта КУЛЬТУРА ГРЯДУЩЕЙ ЭПОХИ (Culture of the Upcoming Аge)
 tags:
 - Обзоры

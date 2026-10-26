@@ -1,44 +1,58 @@
 baseURL = "https://blago-nko.github.io/obrazslov/"
-locale = "ru"
+defaultContentLanguage = "ru"
+languageCode = "ru-RU"
 title = "Образ слов"
+summaryLength = 30
+enableRobotsTXT = true
+
+[pagination]
+pagerSize = 12
 
 [permalinks]
-  posts = "/:year/:month/:filename.html"
+posts = "/:year/:month/:filename.html"
 
 [params]
-  favicon = "favicon.png"
-  description = "Мультипортал объединяет несколько сайтов и сообществ, расположенных на этом домене"
-  author = "blago-nko"
-  internalDomains = ["blagorussia.ru", "obrazslov.ru", "partnerstvo.blagorussia.ru", "novosti.blagorussia.ru", "ot-gorozan.blagorussia.ru", "obavlenia.blagorussia.ru", "interesnye-mesta.obrazslov.ru", "moisites.blagorussia.ru", "joga.blagorussia.ru", "ideologia.obrazslov.ru", "nasa-istoria.blagorussia.ru", "grekpanteon.obrazslov.ru", "gallery.obrazslov.ru", "can.blagorussia.ru", "pokrov.obrazslov.ru", "amazing-temples.obrazslov.ru", "bookworm.obrazslov.ru"]
+favicon = "favicon.png"
+description = "Мультипортал объединяет несколько сайтов и сообществ, расположенных на этом домене"
+author = "blago-nko"
+internalDomains = ["blagorussia.ru", "obrazslov.ru", "partnerstvo.blagorussia.ru", "novosti.blagorussia.ru", "ot-gorozan.blagorussia.ru", "obavlenia.blagorussia.ru", "interesnye-mesta.obrazslov.ru", "moisites.blagorussia.ru", "joga.blagorussia.ru", "ideologia.obrazslov.ru", "nasa-istoria.blagorussia.ru", "grekpanteon.obrazslov.ru", "gallery.obrazslov.ru", "can.blagorussia.ru", "pokrov.obrazslov.ru", "amazing-temples.obrazslov.ru", "bookworm.obrazslov.ru"]
 
-  [params.logo]
-    src = "logo.webp"
-
+[params.logo]
+src = "logo.webp"
 
 [markup.goldmark.renderer]
-  unsafe = true
+unsafe = true
 
 [outputs]
-  home = ["HTML", "RSS"]
+home = ["HTML", "RSS"]
+section = ["HTML", "RSS"]
+
+[sitemap]
+changefreq = "weekly"
+priority = 0.5
+filename = "sitemap.xml"
 
 [module]
-  [[module.mounts]]
-    source = "content"
-    target = "content"
-  [[module.mounts]]
-    source = "static"
-    target = "static"
-  [[module.mounts]]
-    source = "data"
-    target = "data"
-  [[module.mounts]]
-    source = "themes/shared-assets/hugo/layouts"
-    target = "layouts"
-  [[module.mounts]]
-    source = "themes/shared-assets/web/css"
-    target = "static/css"
-  [[module.mounts]]
-    source = "themes/shared-assets/web/js"
-    target = "static/js"
+[[module.mounts]]
+source = "content"
+target = "content"
 
-# TRIGGER_REBUILD_CSS_V3
+[[module.mounts]]
+source = "static"
+target = "static"
+
+[[module.mounts]]
+source = "data"
+target = "data"
+
+[[module.mounts]]
+source = "themes/shared-assets/hugo/layouts"
+target = "layouts"
+
+[[module.mounts]]
+source = "themes/shared-assets/web/css"
+target = "static/css"
+
+[[module.mounts]]
+source = "themes/shared-assets/web/js"
+target = "static/js"
