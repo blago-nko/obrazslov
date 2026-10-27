@@ -17,8 +17,6 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
 
     steps:
       - name: Checkout
@@ -60,6 +58,8 @@ jobs:
           restore-keys: ${{ runner.os }}-hugo-
 
       - name: Build Site
+        env:
+          HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
         run: hugo --minify --gc --environment staging --baseURL https://blago-nko.github.io/obrazslov/
 
       - name: Generate Search Index
